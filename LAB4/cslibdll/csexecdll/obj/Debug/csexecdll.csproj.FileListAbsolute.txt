@@ -1,0 +1,8 @@
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\bin\Debug\csexecdll.exe.config
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\bin\Debug\csexecdll.exe
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\bin\Debug\csexecdll.pdb
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\bin\Debug\cslibdll.dll
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\bin\Debug\cslibdll.pdb
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\obj\Debug\csexecdll.csprojResolveAssemblyReference.cache
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\obj\Debug\csexecdll.exe
+D:\Semestr_3_5\KOP\LAB4\cslibdll\csexecdll\obj\Debug\csexecdll.pdb

@@ -1,0 +1,5 @@
+D:\Semestr_3_5\KOP\LAB4\cslibdll\cslibdll\bin\Debug\cslibdll.dll
+D:\Semestr_3_5\KOP\LAB4\cslibdll\cslibdll\bin\Debug\cslibdll.pdb
+D:\Semestr_3_5\KOP\LAB4\cslibdll\cslibdll\obj\Debug\cslibdll.csprojResolveAssemblyReference.cache
+D:\Semestr_3_5\KOP\LAB4\cslibdll\cslibdll\obj\Debug\cslibdll.dll
+D:\Semestr_3_5\KOP\LAB4\cslibdll\cslibdll\obj\Debug\cslibdll.pdb
